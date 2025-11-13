@@ -17,7 +17,7 @@ void main() {
     print('Count: $i');
   }
 
-   👇 Function call
+    //👇 Function call
   greet('Viraj');
 }
 
