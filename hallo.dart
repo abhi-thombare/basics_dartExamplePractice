@@ -3,7 +3,7 @@ void main() {
   String name = 'Abhi';
   int age = 21;
 
-  print('My name is $name and I am $age years old.');
+  print('My name is $name and I am $age years old.')
 
   // 👇 Conditional
   if (age >= 18) {
